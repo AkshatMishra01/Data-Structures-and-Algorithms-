@@ -1,0 +1,1 @@
+An algorithm is basically nothing but a set of instructions to solve a problem.
